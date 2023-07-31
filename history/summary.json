@@ -28,17 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 442,
-    "timeDay": 442,
-    "timeWeek": 442,
-    "timeMonth": 442,
-    "timeYear": 442,
+    "time": 456,
+    "timeDay": 456,
+    "timeWeek": 456,
+    "timeMonth": 456,
+    "timeYear": 456,
     "dailyMinutesDown": {}
   },
   {
     "name": "Strapi",
-    "url": "https://stapi.getlokki.com",
-    "icon": "https://icons.duckduckgo.com/ip3/stapi.getlokki.com.ico",
+    "url": "https://strapi.getlokki.com",
+    "icon": "https://icons.duckduckgo.com/ip3/strapi.getlokki.com.ico",
     "slug": "strapi",
     "status": "down",
     "uptime": "0.00%",
@@ -52,25 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-31": 7
+      "2023-07-31": 23
     }
-  },
-  {
-    "name": "Test Broken Site",
-    "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
-    "slug": "test-broken-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {}
   }
 ]
