@@ -7,8 +7,10 @@ sites:
     url: https://app.getlokki.com
   - name: Api
     url: https://api.getlokki.com/v2/api
+    icon: https://i.imgur.com/Sud9i5T.jpg
   - name: Strapi
     url: https://strapi.getlokki.com
+    icon: https://assets.super.so/e7c0f16c-8bd3-4c76-8075-4c86f986e1b2/images/32f3a89c-99c4-466f-8536-dd75f65fa320/Strapi-Monogram.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -17,9 +19,14 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://www.lokki.rent/logo.svg
   name: Lokki Uptime
+  theme: dark
   introTitle: "**Lokki Uptime - Powered by Upptime**"
+  favicon: https://imgur.com/a/0FeEcg7
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  metaTags:
+    - name: "robots"
+      content: "noindex"
