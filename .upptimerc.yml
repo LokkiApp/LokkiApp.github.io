@@ -19,7 +19,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://www.lokki.rent/logo.svg
   name: Lokki Uptime
-  theme: dark
+  theme: ocean
   introTitle: "**Lokki Uptime - Powered by Upptime**"
   favicon: https://imgur.com/a/0FeEcg7
   navbar:
