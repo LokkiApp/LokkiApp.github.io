@@ -1,7 +1,7 @@
 url: https://api.getlokki.com/v2/api
-status: down
-code: 503
-responseTime: 487
-lastUpdated: 2023-08-07T14:21:38.746Z
+status: up
+code: 200
+responseTime: 457
+lastUpdated: 2023-08-07T15:04:56.121Z
 startTime: Mon Jul 31 2023 15:38:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
