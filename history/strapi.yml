@@ -1,7 +1,7 @@
 url: https://strapi.getlokki.com
-status: down
-code: 502
-responseTime: 376
-lastUpdated: 2023-11-02T13:36:22.088Z
+status: up
+code: 200
+responseTime: 434
+lastUpdated: 2023-11-02T13:44:44.275Z
 startTime: 2023-07-31T15:38:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
